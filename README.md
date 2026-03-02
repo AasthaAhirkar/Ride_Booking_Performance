@@ -1,8 +1,8 @@
-# 🚖 OLA Ride Booking Analysis | SQL + Power BI
+# 🚖 Ride Booking Performance | SQL + Power BI
 
 ## 📌 Project Overview
 
-This project analyzes OLA ride booking data to identify revenue trends, booking patterns, cancellation insights, customer behavior, and rating analysis.
+This project analyzes Rapido ride booking data to identify revenue trends, booking patterns, cancellation insights, customer behavior, and rating analysis.
 
 The goal is to perform SQL-based data analysis and build an interactive Power BI dashboard for business decision-making.
 
@@ -21,8 +21,8 @@ The goal is to perform SQL-based data analysis and build an interactive Power BI
 ## 🗄 Database Setup
 
 ```sql
-CREATE DATABASE Ola;
-USE Ola;
+CREATE DATABASE Rapido;
+USE Rapido;
 
 SELECT * FROM bookings;
 ```
